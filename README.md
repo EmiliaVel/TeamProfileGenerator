@@ -29,10 +29,12 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-
+Mock Up
 ![image](https://user-images.githubusercontent.com/93934820/151447338-e0a59733-eec2-4cb5-8ebe-97e80de4cfb3.png)
 
-Test 
+
+
+Test verification
 ![Test-Pass](https://user-images.githubusercontent.com/93934820/151447694-a4918060-6895-4e56-a3db-3574ecb93678.png)
 
 
